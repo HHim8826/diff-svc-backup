@@ -166,8 +166,6 @@ CUDA_VISIBLE_DEVICES=0 python run.py --config configs/config_nsf.yaml --exp_name
 >
 > 详细训练过程和各种参数介绍请查看 [推理与训练说明](./doc/train_and_inference.markdown) 
 >
-> hubert + nsf_hifigan [下載](https://ser1ka.com/0:/backup/diff-svc-bckup.gz)
->
 > [中文 hubert 与特化教程](./doc/advanced_skills.markdown) 
 
 
